@@ -36,6 +36,7 @@ export default function Home() {
                 priority
               />
             </a>
+            あああ
           </div>
         </div>
 
